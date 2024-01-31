@@ -32,7 +32,7 @@
 
 ## 项目导师
 
-王鹏 :  rocking@linux.alibaba.com
+xxx :  xxx
 
 ## 难度
 
