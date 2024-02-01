@@ -56,5 +56,3 @@ GPLv2
 ## 参考资料
 
 [localhost 本地网络通信](https://en.wikipedia.org/wiki/Localhost)
-
-[基于内存的块设备模拟 null block](https://docs.kernel.org/block/null_blk.html)
